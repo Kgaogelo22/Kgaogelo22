@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>❤Selaelo's personal site</title>
+  </head>
+  <body>
+   <h1>Phooko Kgaogelo</h1>
+   <img src="https://thenation.co.za/wp-content/uploads/2021/04/158852535_159803449320428_2495187919988250581_n.jpg" alt="Flat belly">
+
+   <p><em><strong>Self-taught</strong> <a href="https://www.google.com/search?q=software+developer&oq=software+developer&aqs=chrome..69i57j35i39l2j0i131i433i457i512j0i402l2j0i131i433i512j69i60.11369j0j7&sourceid=chrome&ie=UTF-8">software developer</a></em></p>
+   <hr size="3" color="Blue">
+   <h2>What I love about myself</h2>
+   <ol>
+    <li>Brave</li>
+    <li>Unstoppable</li>
+    <li>Smart</li>
+    <li>Optimistic</li>
+    <li>Responsible</li>
+    <li>Riak-taker</li>
+    <li>Never give up on myself</li>
+   </ol>
+   <a href="What I don't love about myself.html">What I don't love about myself</a>
+</html>
